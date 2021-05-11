@@ -1,6 +1,6 @@
 # Benchmark app (wip)
 
-Working benchmark app with currently only one available multithreaded test. App also shows information about your PC and information about last benchmark.
+Working benchmark app with currently only one available multithreaded test. App also shows information about your PC and information about last benchmark. It also has interactive user interface where user can choose option by pressing numbers and then enter.
 
 Screenshot:
 
